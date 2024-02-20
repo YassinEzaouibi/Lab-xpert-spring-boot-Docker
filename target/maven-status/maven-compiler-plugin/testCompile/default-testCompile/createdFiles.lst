@@ -1,0 +1,12 @@
+com\example\labxpert\Repository\IFournisseurRepositoryTest.class
+com\example\labxpert\Controller\PatientControllerTest.class
+com\example\labxpert\Service\Impl\PatientServiceImplTest.class
+com\example\labxpert\Service\Impl\UserServiceImplTest.class
+com\example\labxpert\LabxpertApplicationTests.class
+com\example\labxpert\Repository\IMaterialRepositoryTest.class
+com\example\labxpert\Repository\IUserRepositoryTest.class
+com\example\labxpert\Service\Impl\IFournisseurServiceTest.class
+com\example\labxpert\Service\Impl\MaterialServiceImplTest.class
+com\example\labxpert\Repository\IPatientRepositoryTest.class
+com\example\labxpert\Controller\FournisseurControllerTest.class
+com\example\labxpert\Controller\UserControllerTest.class
